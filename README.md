@@ -12,7 +12,7 @@ Go here for [instructions and official firmware](https://drive.google.com/drive/
 [YD3D Printer](http://www.ydcanada.ca/index.php/product-category/yd3d-3d-printer/) / DMSCreate DP5
 --
 * `1.1.x-YD3D` or `1.1.x-DMS-DP5`: Marlin 1.1.9 [YD3D](https://github.com/clintonblackmore/Marlin/tree/1.1.x-YD3D) / [DMS DP5](https://github.com/clintonblackmore/Marlin/tree/1.1.x-DMS-DP5) (untested)
-* `1.1.x-YD3D-ZStopSwitch`: [Marlin 1.1.9](https://github.com/clintonblackmore/Marlin/tree/1.1.x-YD3D-ZStopSwitch) with [Z Stop limit switch](https://www.thingiverse.com/thing:1479176)  **Caution**: I got one poor print with this firmware (bad filament, I think), and the next day, my extruder motor driver didn't work. :-(
+* `1.1.x-YD3D-ZStopSwitch`: [Marlin 1.1.9](https://github.com/clintonblackmore/Marlin/tree/1.1.x-YD3D-ZStopSwitch) with [Z Stop limit switch](https://www.thingiverse.com/thing:1479176)
 
 In the Arduino software, set the board to `Arduino Mega 2560`.
 
