@@ -13,6 +13,8 @@ Go here for [instructions and official firmware](https://drive.google.com/drive/
 --
 * `1.1.x-YD3D` or `1.1.x-DMS-DP5`: Marlin 1.1.9 [YD3D](https://github.com/clintonblackmore/Marlin/tree/1.1.x-YD3D) / [DMS DP5](https://github.com/clintonblackmore/Marlin/tree/1.1.x-DMS-DP5) (untested)
 * `1.1.x-YD3D-ZStopSwitch`: [Marlin 1.1.9](https://github.com/clintonblackmore/Marlin/tree/1.1.x-YD3D-ZStopSwitch) with [Z Stop limit switch](https://www.thingiverse.com/thing:1479176)
+* `2.0.x-DMS-DP5`: [Marlin 2.0.6.1](https://github.com/clintonblackmore/Marlin/tree/2.0.x-DMS-DP5) (untested)
+* `2.0.x-YD3D-ZStopSwitch` [Marlin 2.0.6.1](https://github.com/clintonblackmore/Marlin/tree/2.0.x-YD3D-ZStopSwitch) with [Z Stop limit switch](https://www.thingiverse.com/thing:1479176)
 
 In the Arduino software, set the board to `Arduino Mega 2560`.
 
